@@ -15,3 +15,4 @@ var position = document.getElementsByTagName('ul')[0];
 
 // Insert the new element into its position.
 position.appendChild(newEl);
+}
